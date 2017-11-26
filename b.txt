@@ -1,1 +1,3 @@
 fichero b
+uy... es cierto, he hecho un revert y me ha quitado el texto...
+Ahora voy con el punto 20
